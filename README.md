@@ -1,6 +1,6 @@
 # CIS 320 - Systems Analysis and Design
 
-Welcome to our GitHub repository for our Systems Analysis and Design course (CIS 320), taught by Dr. Zara Hatami. This course introduces the fundamentals of object-oriented analysis and design, including UML, data modeling, and security procedures. We'll be working on a community-based project for a not-for-profit client from the Louisville community, resulting in a complete systems design specification.
+Welcome to our GitHub repository for our Systems Analysis and Design course (CIS 320), taught by Dr. Zara Hatami. This course introduces the fundamentals of object-oriented analysis and design, including UML, data modeling, and security procedures. We'll be working on a project to improve Pets4Life Louisville's website, a non-profit client from the Louisville community.
 
 ## Instructor Contact Information
 - **Instructor:** Dr. Zara Hatami
